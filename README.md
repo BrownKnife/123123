@@ -21,6 +21,6 @@ public class Blog
 
 根据牛顿第二定律{!![又称为作用与反作用定律]}，我们可以得出结论。
 
-![这是一个Logo图像](https://www.ptpress.com.cn/upload/2022/02//docx_23d0b6f0eef24ea8bd82b867cd10b0ed/word/media/image1.jpeg)
+![这是一个Logo图像](https://www.ptpress.com.cn/upload/2021/11//docx_0d8b210a9ff4457d8ee5d6bbee44609a/word/media/image1.jpeg)
 
 图1.1 人民邮电出版社Logo
